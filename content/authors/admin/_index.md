@@ -67,6 +67,7 @@ user_groups:
 - Visitors
 ---
 
+> Why join the navy if you can be a pirate?
 
 Hi, I am Jeffrey Tan, a third-year undergrad at the University of Virginia majoring in computer science and mathematics. I grew up in Guangzhou, China, a city known as the origin of the language Cantonese. Unfortunately, although borned and raised in Guangzhou, I do not know how to speak Cantonese. :)  
 
